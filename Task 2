@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>K. Katyayani Portfolio</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My Portfolio</h1>
+
+    <h2>Hello! I am K. Katyayani</h2>
+
+    <hr>
+
+    <h2>About Me</h2>
+
+    <p>
+        My name is K. Katyayani.
+        I am a first year B.Tech student.
+        I am studying at NRI University.
+        My branch is Computer Science and Engineering
+        with Artificial Intelligence and Machine Learning.
+        I am interested in learning new technologies
+        and improving my technical skills.
+    </p>
+
+    <br>
+
+    <h2>My Education</h2>
+
+    <p>
+        College: NRI University
+        <br>
+        Course: B.Tech
+        <br>
+        Branch: CSE - AI and ML
+        <br>
+        Year: First Year
+        <br>
+        Previous Education: Intermediate
+    </p>
+
+    <hr>
+
+    <h2>My Skills</h2>
+
+    <p>
+        1. Basic HTML
+        <br>
+        2. Basic Computer Knowledge
+        <br>
+        3. Communication Skills
+        <br>
+        4. Problem Solving
+        <br>
+        5. Learning Python
+    </p>
+
+    <hr>
+
+    <h2>My Interests</h2>
+
+    <p>
+        1. Learning Programming
+        <br>
+        2. Web Designing
+        <br>
+        3. Artificial Intelligence
+        <br>
+        4. Exploring New Technologies
+        <br>
+        5. Listening to Music
+    </p>
+
+    <hr>
+
+    <h2>My Career Goal</h2>
+
+    <p>
+        My goal is to become a successful software engineer.
+        I want to improve my programming knowledge
+        and develop useful applications.
+        I also want to learn more about Artificial Intelligence
+        and Machine Learning.
+    </p>
+
+    <hr>
+
+    <h2>Contact Details</h2>
+
+    <p>
+        Name: K. Katyayani
+        <br>
+        Location: Vijayawada, Andhra Pradesh
+        <br>
+        Email: katyayani@gmail.com
+    </p>
+
+    <hr>
+
+    <h3>Thank You for Visiting My Portfolio!</h3>
+
+    <a href="https://www.google.com">Visit Google</a>
+
+</body>
+</html>
