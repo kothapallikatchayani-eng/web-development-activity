@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yoga and Wellness</title>
+</head>
+
+<body>
+
+    <h1>Welcome to Yoga and Wellness</h1>
+
+    <h2>Stay Healthy, Stay Happy</h2>
+
+    <hr>
+
+    <h2>About Yoga</h2>
+
+    <p>
+        Yoga is a good practice for our body and mind.
+        It helps us to stay healthy and peaceful.
+        Yoga improves our flexibility and fitness.
+        Everyone can practice yoga every day.
+    </p>
+
+    <br>
+
+    <h2>Types of Yoga</h2>
+
+    <h3>1. Hatha Yoga</h3>
+
+    <p>
+        Hatha Yoga helps to improve body strength
+        and flexibility.
+    </p>
+
+    <h3>2. Vinyasa Yoga</h3>
+
+    <p>
+        Vinyasa Yoga includes different body movements
+        and breathing exercises.
+    </p>
+
+    <h3>3. Meditation</h3>
+
+    <p>
+        Meditation helps to reduce stress
+        and improve concentration.
+    </p>
+
+    <hr>
+
+    <h2>Benefits of Yoga</h2>
+
+    <p>
+        1. Improves physical health.
+        <br>
+        2. Reduces stress.
+        <br>
+        3. Improves flexibility.
+        <br>
+        4. Helps in better sleep.
+        <br>
+        5. Improves concentration.
+    </p>
+
+    <hr>
+
+    <h2>Daily Yoga Timings</h2>
+
+    <p>
+        Morning: 6 AM to 8 AM
+        <br>
+        Evening: 5 PM to 7 PM
+    </p>
+
+    <hr>
+
+    <h2>Our Yoga Instructor</h2>
+
+    <p>
+        Name: Rahul Sharma
+        <br>
+        Experience: 5 Years
+        <br>
+        Speciality: Yoga and Meditation
+    </p>
+
+    <hr>
+
+    <h2>Contact Us</h2>
+
+    <p>
+        Address: Vijayawada, Andhra Pradesh
+        <br>
+        Phone: 9876543210
+        <br>
+        Email: yogacenter@gmail.com
+    </p>
+
+    <h3>Thank You! Stay Healthy.</h3>
+
+    <a href="https://www.google.com">Visit Google</a>
+
+</body>
+</html>
